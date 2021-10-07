@@ -1,0 +1,10 @@
+<html>
+    <head>
+
+        <title>Collage Name </title>
+    <body background="markus-spiske-1nInzk7c0hg-unsplash.jpg"> 
+      <h1>aditya more </h1> 
+      
+    </body>   
+    
+</html>
